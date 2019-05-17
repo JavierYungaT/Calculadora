@@ -12,6 +12,7 @@ function raiz(numero){
     var resultado = Math.sqrt(numero)
     document.getElementById("pantalla").value=resultado
 }
+
 function porcentaje(numero){
     var resultado = numero/100
     document.getElementById("pantalla").value=resultado
